@@ -30,7 +30,7 @@ python3 trainer.py
 
 To run sampling use:
 ```sh
-python3 diffussion_sampler.py
+python3 diffusion_sampler.py
 ```
 It will use our pretrained model by default. The pretrained model used to produce the results in 
 this paper is provided in the folder `pretrained_model`. The global configuration is given in `config.py`, settings for 
